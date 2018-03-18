@@ -1,3 +1,4 @@
+// hello world
 var http = require('http'); //httpモジュール呼び出し
 http.createServer(function (request, response) {
     // リクエストを受けると以下のレスポンスを送信する
